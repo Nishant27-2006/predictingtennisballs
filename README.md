@@ -5,7 +5,7 @@ This project uses machine learning to predict the lifespan of tennis balls based
 
 ## Steps:
 
-1. **Data Collection**: Data from various locations like Katy, TX, and Frisco, TX, was collected with details on bounce height, speed, material, and environmental conditions.
+1. **Data Collection**: Data from various locations like Katy, TX, Frisco, TX, Bartlett, IL, and Dublin, CA was collected with details on bounce height, speed, material, and environmental conditions.
 2. **Feature Engineering**: Features like bounce height degradation and temperature-material interaction were created.
 3. **Model Training**: Random Forest, SVM, and Neural Networks were trained on the dataset.
 4. **Evaluation**: The models were evaluated based on accuracy, MAE, precision, and recall.
